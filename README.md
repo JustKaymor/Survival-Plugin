@@ -12,7 +12,7 @@ things im trying to see done with this plugin that are beyond my capabilities:
 
 4. checkboxes actually produce a game over screen for the box that's checked if that rule is broken
 
-5. beta file names renamed to better reflect the plugin without the .plugin and .lua breaking.
+5. beta file names renamed to better reflect the plugin without the .plugin and .lua breaking. like survival.plugin and survival.lua
 
 6. The key to reset the button is currently F7 because in order for the plugin to detect the keystoke the key needs to be binded in game. i choose a default key so no one forgets to set the key. if anyone as better ideas than F7 let me know but it has to be a default binded key(like g doesn't work since it's not a key used by default).
 
