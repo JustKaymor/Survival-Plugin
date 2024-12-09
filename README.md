@@ -1,7 +1,8 @@
 This is plugin information for the main lua file currently know as it's beta name KaymorHC.lua
+
 KaymorHC.lua is a survival mode scripted to monitor HP and when the hp reaches 0 you are presented a game over screen, with choose your own difficulty following the honor system.
 
-things im trying to see done with this plugin that beyond my capabilities:
+things im trying to see done with this plugin that are beyond my capabilities:
 
 1. i think it only works in 1920x1080 resolution, need it be universal (top priority)
 
@@ -19,6 +20,5 @@ things im trying to see done with this plugin that beyond my capabilities:
 
 8. If you fail your challenge and delete your character the plugin remembers the character's name, so if you reuse the same name you just failed with the new character will have a game over screen. would like people to be able to reuse their names, if possible
 
-Here is the link to KaymorHC.lua if you're able to help
+KaymorHC.lua and KaymorHC.plugin are listed here.
 
-https://github.com/JustKaymor/Survival-LOTRO/blob/main/KaymorHC.lua
