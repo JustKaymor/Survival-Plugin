@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Plugin>
+    <Information>
+        <Name>Survival Mode</Name>  <!-- Your Plugin Name -->
+        <Author>Kaymor</Author>  <!-- Author Name -->
+        <Version>1.0</Version> <!-- Version Number -->
+        <Description>Implementing survival mode with optional honor system rules in LOTRO.</Description>
+    </Information>
+    <Package Name="SurvivalMode" Version="1.0">  <!-- Specify package name and version -->
+        Survival.Survival  <!-- Main script file of the plugin -->
+    </Package>
+    <Configuration Apartment="SurvivalMode">
+        <Setting Key="HardcoreMode" Type="Boolean" DefaultValue="true"/>
+        <Setting Key="HonorRule1" Type="Boolean" DefaultValue="false"/>
+        <Setting Key="HonorRule2" Type="Boolean" DefaultValue="false"/>
+    </Configuration>
+</Plugin>
