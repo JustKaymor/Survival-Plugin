@@ -20,5 +20,5 @@ things im trying to see done with this plugin that are beyond my capabilities:
 
 8. If you fail your challenge and delete your character the plugin remembers the character's name, so if you reuse the same name you just failed with the new character will have a game over screen. would like people to be able to reuse their names, if possible
 
-KaymorHC.lua and KaymorHC.plugin are listed here.
+KaymorHC.lua and KaymorHC.plugin are listed here for download if you'd like to help.
 
