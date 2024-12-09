@@ -1,3 +1,5 @@
+Survival is a Lord of the Rings Online plugin meant to create a similar system as World of Warcraft's hardcore realms where death is permanent.
+
 This is plugin information for the main lua file currently know as it's beta name KaymorHC.lua
 
 KaymorHC.lua is a survival mode scripted to monitor HP and when the hp reaches 0 you are presented a game over screen, with choose your own difficulty following the honor system.
